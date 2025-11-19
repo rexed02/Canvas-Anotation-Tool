@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=screen_annotation
+X-Python-2-Compatible=false
+X-Krita-Manual=Manual.html
+Name=Canvas Annotation Tool
+Comment=Draw Anotations Outside the Canvas
